@@ -1,4 +1,5 @@
-# grupo_4_536106-
+# Proyecto Tymelitics
+grupo_4_536106-
 PROGRAMACION I / ALGORITMOS Y ESTRUCTURA DE DATOS I
 
 Parametros de negocio:
