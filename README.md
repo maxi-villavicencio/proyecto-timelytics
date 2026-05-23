@@ -1,11 +1,11 @@
-# Proyecto Tymelitics
+# Proyecto Timelytics
 PROGRAMACION I / ALGORITMOS Y ESTRUCTURA DE DATOS I
 
-# Tymelytics
+# Timelytics
 Sistema de gestión y análisis de fichadas para empleados. Genera automáticamente reportes en CSV y TXT con estadísticas de horas trabajadas, horas extras, rankings por empleado y por sector.
 
 ## Descripción
-Tymelytics simula y procesa datos de asistencia laboral. Al ejecutarse, genera datos aleatorios de empleados y jornadas, y produce un conjunto de reportes listos para analizar.
+Timelytics simula y procesa datos de asistencia laboral. Al ejecutarse, genera datos aleatorios de empleados y jornadas, y produce un conjunto de reportes listos para analizar.
 
 Parametros de negocio:
 1- Cantidad maxima de empleados: 5
@@ -25,9 +25,9 @@ El sistema incluye:
 
 ## Estructura del proyecto
 
-    tymelytics/
+    Proyecto-Timelytics/
     │
-    ├── src/
+    ├── codigo_timelytics/
     │   ├── main.py               # Punto de entrada del programa
     │   ├── empleados.py          # Generación de empleados aleatorios
     │   ├── jornada.py            # Generación de jornadas laborales
@@ -50,8 +50,8 @@ El sistema incluye:
 
 1. Clonar el repositorio:
 
-       git clone https://github.com/maxi-villavicencio/proyecto-tymelitics.git
-       cd proyecto-tymelitics
+       git clone https://github.com/maxi-villavicencio/proyecto-timelytics.git
+       cd proyecto-timelytics
 
 2. Ejecutar el programa:
 
