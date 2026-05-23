@@ -25,7 +25,9 @@ El sistema incluye:
 
 ## Estructura del proyecto
 
-    Proyecto-Timelytics/
+## 🗂️ Estructura del proyecto
+
+    proyecto-tymelitics/
     │
     ├── codigo_timelytics/
     │   ├── main.py               # Punto de entrada del programa
@@ -40,8 +42,6 @@ El sistema incluye:
     │   ├── reportes_texto.py     # Reportes gráficos con barras ASCII
     │   ├── user.py               # Gestión de usuarios (CRUD)
     │   └── log.py                # Sistema de logging con fecha/hora
-    │
-    ├── output/                   # Archivos generados al ejecutar el programa
     │
     ├── .gitignore
     └── README.md
